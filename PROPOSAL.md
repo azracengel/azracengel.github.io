@@ -1,16 +1,11 @@
-# Matcha by Chae Website Proposal
+# Personal Website Proposal
 
-## Client
-My client is Matcha by Chae, a matcha business founded by a Babson College student with a physical location in Boston.
+My website is for classmates, professors, recruiters, and anyone who wants to learn more about me.
 
-## Project
-I will create a website for Matcha by Chae that introduces customers to the business and its brand.
+The main thing I want visitors to do is learn about who I am, see my experiences and interests, and be able to find a way to contact me.
 
-## Target Audience
-The target audience is college students, young professionals, matcha lovers, and people in Boston looking for a matcha spot.
+The website will include sections for Home, About Me, Experience, Interests, and Contact.
 
-## Website Goals
-The website will make it easy for visitors to find the menu, location, hours, and information about the brand.
+I already have information about my background, education, experiences, and interests. I may still want to add a good personal photo and update my experiences as I complete new projects.
 
-## Design
-I want the website to have a simple and modern design that represents Matcha by Chae and is easy to navigate.
+I like Apple's website because it has a clean and modern design, strong visuals, and does not overwhelm the visitor with too much information. I also like Airbnb's website because it is visually appealing, easy to navigate, and organizes information clearly.
